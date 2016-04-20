@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/estacion" xmlns:tns="http://www.example.org/estacion" elementFormDefault="qualified">
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:emt="https://api.mobipalma.mobi/docs/" elementFormDefault="qualified">
+<
+
+
+
 </schema>
